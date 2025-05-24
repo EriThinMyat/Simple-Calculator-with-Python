@@ -8,7 +8,7 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 -  Handles division by zero with an error message
 -  "ans" keyword to reuse the previous result
 -  View and clear calculation history
--  Helpful commands like `help`, `history`, `clear`, and `exit`
+-  Helpful commands like `help`, `history`, `clear`, `exit`, and `quit`
 
 ## Technologies Used
 
