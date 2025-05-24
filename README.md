@@ -14,7 +14,7 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 
 - Python 3
 
-## 📥 Installation
+## Installation
 
 1. Clone the repository:
 
