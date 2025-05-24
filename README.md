@@ -4,11 +4,11 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 
 ## Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- User-friendly command-line interface
+-  Addition, Subtraction, Multiplication, Division
+-  Handles division by zero with an error message
+-  "ans" keyword to reuse the previous result
+-  View and clear calculation history
+-  Helpful commands like `help`, `history`, `clear`, and `exit`
 
 ## Technologies Used
 
