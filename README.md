@@ -1,8 +1,8 @@
-# 🧮 Simple Python Calculator
+# Simple Python Calculator
 
 This is a simple calculator written in Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## 🚀 Features
+## Features
 
 - Addition
 - Subtraction
@@ -10,7 +10,7 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 - Division
 - User-friendly command-line interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 
@@ -20,4 +20,4 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 
 ```bash
 git clone https://github.com/EriThinMyat/Simple-Calculator-with-Python.git
-cd simple-python-calculator
+cd simple_calculator
