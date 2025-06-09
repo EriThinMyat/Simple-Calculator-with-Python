@@ -20,4 +20,4 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 
 ```bash
 git clone https://github.com/EriThinMyat/Simple-Calculator-with-Python.git
-cd simple_calculator
+cd Simple-Calculator-with-Python
